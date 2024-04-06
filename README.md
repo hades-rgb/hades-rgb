@@ -8,7 +8,7 @@ I've been learning coding since 6 years and can code in C, C++, PY, JAVA. Had gr
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/rajarshi-chatterjee)
-* ✉️  You can contact me at [thisisrajarshichatterjee@gmail.com](mailto:thisisrajarshichatterjee@gmail.com)
+* ✉️  You can contact me at [rajarshi.ping@gmail.com](mailto:rajarshi.ping@gmail.com)
 * 🚀  I'm currently working at [Epsilon]
 * 🧠  I'm learning Node Js, Tableau , Java
 
