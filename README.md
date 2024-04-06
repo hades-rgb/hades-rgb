@@ -9,9 +9,9 @@ I've been learning coding since 6 years and can code in C, C++, PY, JAVA. Had gr
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/rajarshi-chatterjee)
 * ✉️  You can contact me at [thisisrajarshichatterjee@gmail.com](mailto:thisisrajarshichatterjee@gmail.com)
-* 🚀  I'm currently working on [CLICKBEd](http://www.linkedin.com/company/contactcb/)
-* 🧠  I'm learning Node Js, CSS, Java
-* 🤝  I'm open to collaborating on Website Dev, UI structuring,
+* 🚀  I'm currently working at [Epsilon]
+* 🧠  I'm learning Node Js, Tableau , Java
+
 
 ### Skills
 
