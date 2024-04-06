@@ -1,7 +1,7 @@
 Hi 👋 My name is Rajarshi Chatterjee
 ====================================
 
-Automobile Engineer & UI Designer
+I am a Data Analyst
 ---------------------------------
 
 I've been learning coding since 6 years and can code in C, C++, PY, JAVA. Had great experience in UI design and wish to pick up more proficient skills on it too!|
